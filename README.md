@@ -1,6 +1,6 @@
 # 🏥 Clinic Management System
 
-A desktop-based Clinic Management System developed using Python, Tkinter (CustomTkinter), and MySQL.
+## A desktop-based Clinic Management System developed using Python, Tkinter (CustomTkinter), and MySQL.
 This project is designed to help clinics manage patients, doctors, appointments, prescriptions, medicines, payments, and consultation workflows efficiently through an easy-to-use GUI.
 
 This project was built as part of my learning and practical implementation of database-driven GUI applications.
@@ -49,38 +49,47 @@ Charts & Stats: Matplotlib
 
 ![Registration](screenshots/patientregistration.png)
 
-![Appointments](screenshots/Appointments.png)
-
-![Chatbot](screenshots/Chatbot.png)
-
-![Consultation](screenshots/Consultation.png)
-
-![Doctor Profile](screenshots/Doctor_profile.png)
-
+### Doctor Dashboard
 ![Doctor Dashboard](screenshots/Doctordashboard.png)
 
-![Medicines](screenshots/Medicines.png)
+### Appointments
+![Appointments](screenshots/Appointments.png)
 
-![Patient Dashboard](screenshots/Patient-dash.png)
-
-![Patient Appointments](screenshots/Patient_appointments.png)
-
+### Patients
 ![Patients](screenshots/Patients.png)
 
+### Patient Dashboard
+![Patient Dashboard](screenshots/Patient-dash.png)
+
+### Patient Appointments
+![Patient Appointments](screenshots/Patient_appointments.png)
+
+### Medicines
+![Medicines](screenshots/Medicines.png)
+
+### Payments
 ![Payments](screenshots/Payments.png)
+
+### Consultation
+![Consultation](screenshots/Consultation.png)
+
+### Chatbot
+![Chatbot](screenshots/Chatbot.png)
+
+### Doctor Profile
+![Doctor Profile](screenshots/Doctor_profile.png)
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/Shunya-karan/CLINIC-MANAGMENT.git
 
 2️⃣ Install Required Libraries
-pip install pymysql matplotlib customtkinter
 
 3️⃣ Database Setup
 
 Create a MySQL database
 
-Import required tables
 
 Update database credentials in the project files
 
