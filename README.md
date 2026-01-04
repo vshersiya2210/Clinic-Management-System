@@ -49,19 +49,25 @@ Charts & Stats: Matplotlib
 
 ![Registration](screenshots/patientregistration.png)
 
-![Login](screenshots/login.png)
+![Appointments](screenshots/Appointments.png)
 
-![Login](screenshots/login.png)
+![Chatbot](screenshots/Chatbot.png)
 
-![Login](screenshots/login.png)
+![Consultation](screenshots/Consultation.png)
 
-![Login](screenshots/login.png)
+![Doctor Profile](screenshots/Doctor_profile.png)
 
-![Login](screenshots/login.png)
+![Doctor Dashboard](screenshots/Doctordashboard.png)
 
-![Login](screenshots/login.png)
+![Medicines](screenshots/Medicines.png)
 
-![Login](screenshots/login.png)
+![Patient Dashboard](screenshots/Patient-dash.png)
+
+![Patient Appointments](screenshots/Patient_appointments.png)
+
+![Patients](screenshots/Patients.png)
+
+![Payments](screenshots/Payments.png)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
