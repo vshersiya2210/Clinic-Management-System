@@ -45,38 +45,65 @@ Database Connector: PyMySQL
 Charts & Stats: Matplotlib
 
 🖼 Application Screenshots
+
+### Login
+
+
 ![Login](screenshots/patient_login.png)
+
+### Registration
+
 
 ![Registration](screenshots/patientregistration.png)
 
 ### Doctor Dashboard
+
+
 ![Doctor Dashboard](screenshots/Doctordashboard.png)
 
 ### Appointments
+
+
 ![Appointments](screenshots/Appointments.png)
 
 ### Patients
+
+
 ![Patients](screenshots/Patients.png)
 
 ### Patient Dashboard
+
+
 ![Patient Dashboard](screenshots/Patient-dash.png)
 
 ### Patient Appointments
+
+
 ![Patient Appointments](screenshots/Patient_appointments.png)
 
 ### Medicines
+
+
 ![Medicines](screenshots/Medicines.png)
 
 ### Payments
+
+
 ![Payments](screenshots/Payments.png)
 
 ### Consultation
+
+
 ![Consultation](screenshots/Consultation.png)
 
 ### Chatbot
+
+
 ![Chatbot](screenshots/Chatbot.png)
 
 ### Doctor Profile
+
+
 ![Doctor Profile](screenshots/Doctor_profile.png)
 
 
