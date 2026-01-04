@@ -121,7 +121,7 @@ Create a MySQL database
 Update database credentials in the project files
 
 4️⃣ Run the Application
-python main.py
+### Clinic_system/raw/loading.py
 
 📌 Project Purpose
 
