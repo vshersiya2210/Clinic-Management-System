@@ -1,4 +1,4 @@
-# 🏥 Clinic Management System
+8# 🏥 Clinic Management System
 
 ## A desktop-based Clinic Management System developed using Python, Tkinter (CustomTkinter), and MySQL.
 This project is designed to help clinics manage patients, doctors, appointments, prescriptions, medicines, payments, and consultation workflows efficiently through an easy-to-use GUI.
@@ -137,11 +137,5 @@ PDF export for prescriptions
 Dark mode UI
 Email/SMS notifications
 Cloud database support
-
-👨‍💻 Author
-
-Karan Yadav
-📍 India
-🔗 GitHub: https://github.com/Shunya-karan
 
 ⭐ If you like this project, consider giving it a star! ⭐
