@@ -106,17 +106,20 @@ Charts & Stats: Matplotlib
 
 ![Doctor Profile](screenshots/Doctor_profile.png)
 
+#Installation and setup guide:
 
-2️⃣ Install Required Libraries
+1. Clone the Repository git Clone :  https://github.com/vshersiya2210/Clinic-Management-System
 
-3️⃣ Database Setup
+2. Install Required Libraries
+
+3. Database Setup
 
 Create a MySQL database
 
 
 Update database credentials in the project files
 
-4️⃣ Run the Application
+4. Run the Application
 ### Clinic_system/raw/loading.py
 
 📌 Project Purpose
