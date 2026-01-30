@@ -107,10 +107,6 @@ Charts & Stats: Matplotlib
 ![Doctor Profile](screenshots/Doctor_profile.png)
 
 
-⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/Shunya-karan/CLINIC-MANAGMENT.git
-
 2️⃣ Install Required Libraries
 
 3️⃣ Database Setup
